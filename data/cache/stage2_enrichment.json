@@ -1,0 +1,593 @@
+{
+  "version": "1.0",
+  "created": "2025-12-17T08:38:16.990222",
+  "search_queries": {},
+  "final_results": null,
+  "metadata": {
+    "total_queries": 0,
+    "last_cleanup": "2025-12-17T08:38:16.990222",
+    "last_updated": "2025-12-17T10:23:54.674645"
+  },
+  "enriched_leads": {
+    "18e042f97036a97235207489f1742826": {
+      "timestamp": "2025-12-17T08:38:16.990222",
+      "data": {
+        "name": "A Grom",
+        "title": "",
+        "company": "A. Grom",
+        "location": "OH, USA.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "A. Grom, MD, Division of Rheumatology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA; Department of Pediatrics, University of Cincinnati, Cincinnati, OH, USA.",
+        "publication_title": "Hepatic Manifestations in Systemic Juvenile Idiopathic Arthritis and Macrophage Activation Syndrome.",
+        "publication_date": "2025-12-15",
+        "publication_journal": "The Journal of rheumatology",
+        "pubmed_id": "41397861",
+        "company_name_verified": "A. Grom",
+        "person_location": "OH, USA.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:38:16.990222",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "540e68bb32d8c7f374c291f50b396997": {
+      "timestamp": "2025-12-17T08:38:19.183655",
+      "data": {
+        "name": "JB Zheng",
+        "title": "",
+        "company": "China-Japan Friendship Hospital",
+        "location": "100029, China.",
+        "email": "dr_zhengjiabin@foxmail.com",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Integrated Traditional Chinese and Western Medicine Oncology Department, China-Japan Friendship Hospital, Beijing, 100029, China. dr_zhengjiabin@foxmail.com.",
+        "publication_title": "Efficacy and Safety of Different Types of Traditional Chinese Medicine Preparations Combined with EGFR-TKIs for Patients with Non-Small Cell Lung Cancer: A Network Meta-analysis.",
+        "publication_date": "2025-12-15",
+        "publication_journal": "Chinese journal of integrative medicine",
+        "pubmed_id": "41396392",
+        "company_name_verified": "China-Japan Friendship Hospital",
+        "person_location": "100029, China.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:38:19.183655",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "6eb13b4d09cce0daad59b4957ef094ae": {
+      "timestamp": "2025-12-17T08:38:22.171321",
+      "data": {
+        "name": "M Noor Illahi",
+        "title": "",
+        "company": "Internal Medicine",
+        "location": "Doha, QAT.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Internal Medicine, Hamad Medical Corporation, Doha, QAT.",
+        "publication_title": "Idiosyncratic Warfarin-Induced Hepatocellular Injury: A Reversible and Uncommon Occurrence.",
+        "publication_date": "2025-11",
+        "publication_journal": "Cureus",
+        "pubmed_id": "41393727",
+        "company_name_verified": "Internal Medicine",
+        "person_location": "Doha, QAT.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:38:22.171321",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "3aee51cd637758254e2f2de9335cc587": {
+      "timestamp": "2025-12-17T08:38:24.188147",
+      "data": {
+        "name": "G He",
+        "title": "",
+        "company": "Zhujiang Hospital",
+        "location": "Guangdong Province, China. Electronic address:",
+        "email": "dwtou@126.com",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Department of Hepatobiliary Surgery II, GuangDong Engineering Technology Research Center of Artificial Organ and Tissue Engineering, Guangzhou Clinical Research and Transformation Center for Artificial Liver, Institute of Regenerative Medicine, General Surgery Center, Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China. Electronic address: dwtou@126.com.",
+        "publication_title": "hPMSC-derived Exosomal miR-26-5p modulates macrophage polarization for liver repair in DILI via PTEN/mTOR signaling.",
+        "publication_date": "2025-12-12",
+        "publication_journal": "Cellular signalling",
+        "pubmed_id": "41391672",
+        "company_name_verified": "Zhujiang Hospital",
+        "person_location": "Guangdong Province, China. Electronic address:",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:38:24.188147",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "159f0ad5f11254df189f294ee4aa6b38": {
+      "timestamp": "2025-12-17T08:38:26.361608",
+      "data": {
+        "name": "HJ Li",
+        "title": "",
+        "company": "No. 639 Longmian Avenue",
+        "location": "210009, China. Electronic address:",
+        "email": "cpuli@163.com",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University, No. 639 Longmian Avenue, Nanjing, 210009, China. Electronic address: cpuli@163.com.",
+        "publication_title": "Integrative Chemical Proteomics and Metabolomics Identify AHCY as the Direct Target of Triptolide-induced Liver Injury.",
+        "publication_date": "2025-12-09",
+        "publication_journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "pubmed_id": "41391368",
+        "company_name_verified": "No. 639 Longmian Avenue",
+        "person_location": "210009, China. Electronic address:",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:38:26.361608",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "3126a4a25444d759b91d4b6be402f2d6": {
+      "timestamp": "2025-12-17T08:44:57.731142",
+      "data": {
+        "name": "E Eloseily",
+        "title": "",
+        "company": "E. Eloseily",
+        "location": "Assiut, Egypt.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "First Author",
+        "affiliation": "E. Eloseily, MD, MSc, University of Texas Southwestern Medical Center, Dallas, TX, USA; Scottish Rite Hospital for Children, Dallas, TX, USA; Faculty of Medicine, Assiut University, Assiut, Egypt.",
+        "publication_title": "Hepatic Manifestations in Systemic Juvenile Idiopathic Arthritis and Macrophage Activation Syndrome.",
+        "publication_date": "2025-12-15",
+        "publication_journal": "The Journal of rheumatology",
+        "pubmed_id": "41397861",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "Assiut, Egypt.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:44:57.731142",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "8946d09ccb783be4e071c7aef1cda3b2": {
+      "timestamp": "2025-12-17T08:45:00.912298",
+      "data": {
+        "name": "CC Zhang",
+        "title": "",
+        "company": "Chinese Academy of Chinese Medical Sciences",
+        "location": "100700, China.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "First Author",
+        "affiliation": "Institute of Information on Traditional Chinese Medicine, Chinese Academy of Chinese Medical Sciences, Beijing, 100700, China.",
+        "publication_title": "Efficacy and Safety of Different Types of Traditional Chinese Medicine Preparations Combined with EGFR-TKIs for Patients with Non-Small Cell Lung Cancer: A Network Meta-analysis.",
+        "publication_date": "2025-12-15",
+        "publication_journal": "Chinese journal of integrative medicine",
+        "pubmed_id": "41396392",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "100700, China.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:45:00.909166",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "5304a7849b9e2f1caee0f702a44f1521": {
+      "timestamp": "2025-12-17T08:45:03.944618",
+      "data": {
+        "name": "U Al-Anbagi",
+        "title": "",
+        "company": "Internal Medicine",
+        "location": "Doha, QAT.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "First Author",
+        "affiliation": "Internal Medicine, Hamad Medical Corporation, Doha, QAT.",
+        "publication_title": "Idiosyncratic Warfarin-Induced Hepatocellular Injury: A Reversible and Uncommon Occurrence.",
+        "publication_date": "2025-11",
+        "publication_journal": "Cureus",
+        "pubmed_id": "41393727",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "Doha, QAT.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T08:45:03.944618",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:38:13.213318"
+          }
+        }
+      }
+    },
+    "e3142607266ad5fa27e70900cc0a6cd0": {
+      "timestamp": "2025-12-17T10:02:35.786868",
+      "data": {
+        "name": "J Yoon",
+        "title": "",
+        "company": "Seoul",
+        "location": "03760, South Korea.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Department of Chemistry and Nanoscience, Ewha Womans University, Seoul, 03760, South Korea.",
+        "publication_title": "Investigating Mitochondrial Viscosity in Ferroptosis-Mediated Drug-Induced Liver Injury using a Double-Targeted Strategy.",
+        "publication_date": "2025-12-16",
+        "publication_journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "pubmed_id": "41400087",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "03760, South Korea.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:02:35.779087",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 3,
+            "calls_remaining": 97,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:45:03.928871"
+          }
+        }
+      }
+    },
+    "705d16b69961d88391f23e9d5d017c63": {
+      "timestamp": "2025-12-17T10:02:39.670482",
+      "data": {
+        "name": "XP Fan",
+        "title": "",
+        "company": "Baoding071002",
+        "location": "Baoding071002, P.R. China.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Key Laboratory of Medicinal Chemistry and Molecular Diagnosis of the Ministry of Education, State Key Laboratory of New Pharmaceutical Preparations and Excipients, Key Laboratory of Chemical Biology of Hebei Province, College of Chemistry & Materials Science, Hebei University, Baoding071002, P.R. China.",
+        "publication_title": "Prominent Imaging for Differentiating Severity of Drug-Induced Liver Injury by an Esterase Activatable Near-Infrared Fluorescent Probe.",
+        "publication_date": "2025-12-15",
+        "publication_journal": "Journal of medicinal chemistry",
+        "pubmed_id": "41399125",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "Baoding071002, P.R. China.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:02:39.670482",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 3,
+            "calls_remaining": 97,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T08:45:03.928871"
+          }
+        }
+      }
+    },
+    "f627994fadf01600bb0a11465b4af12e": {
+      "timestamp": "2025-12-17T10:22:26.248931",
+      "data": {
+        "name": "Y Zhou",
+        "title": "",
+        "company": "Jinan",
+        "location": "250022, P. R. China.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "First Author",
+        "affiliation": "School of Chemistry and Chemical Engineering, University of Jinan, Jinan, 250022, P. R. China.",
+        "publication_title": "Investigating Mitochondrial Viscosity in Ferroptosis-Mediated Drug-Induced Liver Injury using a Double-Targeted Strategy.",
+        "publication_date": "2025-12-16",
+        "publication_journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "pubmed_id": "41400087",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "250022, P. R. China.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:22:26.247486",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 5,
+            "calls_remaining": 95,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:02:39.670482"
+          },
+          "contactout": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:21:54.458715"
+          }
+        }
+      }
+    },
+    "7f59d8ed7be77717073c0966af118eca": {
+      "timestamp": "2025-12-17T10:22:29.796135",
+      "data": {
+        "name": "HZ Wang",
+        "title": "",
+        "company": "Baoding071002",
+        "location": "Baoding071002, P.R. China.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "First Author",
+        "affiliation": "Key Laboratory of Medicinal Chemistry and Molecular Diagnosis of the Ministry of Education, State Key Laboratory of New Pharmaceutical Preparations and Excipients, Key Laboratory of Chemical Biology of Hebei Province, College of Chemistry & Materials Science, Hebei University, Baoding071002, P.R. China.",
+        "publication_title": "Prominent Imaging for Differentiating Severity of Drug-Induced Liver Injury by an Esterase Activatable Near-Infrared Fluorescent Probe.",
+        "publication_date": "2025-12-15",
+        "publication_journal": "Journal of medicinal chemistry",
+        "pubmed_id": "41399125",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "Baoding071002, P.R. China.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:22:29.791760",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 5,
+            "calls_remaining": 95,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:02:39.670482"
+          },
+          "contactout": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:21:54.458715"
+          }
+        }
+      }
+    },
+    "260ab13cf13ccc7d37e6a978a1c556b8": {
+      "timestamp": "2025-12-17T10:23:49.152179",
+      "data": {
+        "name": "Y Deng",
+        "title": "",
+        "company": "Changsha",
+        "location": "Changsha, China.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Hunan Province Key Laboratory of Cerebrovascular Disease Prevention and Treatment of Integrated Traditional Chinese and Western Medicine, Hunan University of Chinese Medicine, Changsha, China.",
+        "publication_title": "Efficacy and safety of urate-lowering therapies in asymptomatic hyperuricaemia: a systematic review and network meta-analysis of key clinical outcomes.",
+        "publication_date": "2025-12",
+        "publication_journal": "Annals of medicine",
+        "pubmed_id": "41381368",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "Changsha, China.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:23:49.152179",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 5,
+            "calls_remaining": 95,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:02:39.670482"
+          },
+          "contactout": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:21:54.458715"
+          }
+        }
+      }
+    },
+    "a34fc25cf87451916f11efd617071a51": {
+      "timestamp": "2025-12-17T10:23:51.526203",
+      "data": {
+        "name": "U Gungabissoon",
+        "title": "",
+        "company": "Global Epidemiology (Global Regulatory",
+        "location": "London, UK",
+        "email": "usha.2.gungabissoon@gsk.com",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Global Epidemiology (Global Regulatory, Safety & Quality), GSK, London, UK usha.2.gungabissoon@gsk.com.",
+        "publication_title": "Pruritus and health-related quality of life in chronic liver disease: a longitudinal, survey-based cohort study.",
+        "publication_date": "2025-12-11",
+        "publication_journal": "BMJ open gastroenterology",
+        "pubmed_id": "41381205",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "London, UK",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:23:51.519293",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 5,
+            "calls_remaining": 95,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:02:39.670482"
+          },
+          "contactout": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:21:54.458715"
+          }
+        }
+      }
+    },
+    "562a1f36dd2c58c829891aa19ab5ed81": {
+      "timestamp": "2025-12-17T10:23:54.674645",
+      "data": {
+        "name": "P Trivedi",
+        "title": "",
+        "company": "Liver Unit",
+        "location": "Birmingham, UK.",
+        "email": "",
+        "linkedin_url": "",
+        "source": "PubMed",
+        "author_position": "Corresponding Author",
+        "affiliation": "Liver Unit, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.",
+        "publication_title": "Pruritus and health-related quality of life in chronic liver disease: a longitudinal, survey-based cohort study.",
+        "publication_date": "2025-12-11",
+        "publication_journal": "BMJ open gastroenterology",
+        "pubmed_id": "41381205",
+        "company_name_verified": "Google",
+        "company_hq": "Mountain View, California, United States",
+        "company_hq_address": "1600 Amphitheatre Parkway",
+        "company_size": 326000,
+        "company_industry": "information technology & services",
+        "person_location": "Birmingham, UK.",
+        "enrichment_status": "partial",
+        "enrichment_timestamp": "2025-12-17T10:23:54.674645",
+        "enrichment_fields": [
+          "linkedin",
+          "company_data"
+        ],
+        "api_credits_info": {
+          "apollo": {
+            "calls_made": 5,
+            "calls_remaining": 95,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:02:39.670482"
+          },
+          "contactout": {
+            "calls_made": 0,
+            "calls_remaining": 100,
+            "quota_limit": 100,
+            "last_updated": "2025-12-17T10:21:54.458715"
+          }
+        }
+      }
+    }
+  }
+}
